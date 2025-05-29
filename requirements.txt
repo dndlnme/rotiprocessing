@@ -1,0 +1,13 @@
+aacgmv2==2.6.3
+Cartopy==0.24.1
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+piecewise_regression==1.5.0
+PyQt6==6.9.0
+PyQt6_sip==13.8.0
+PySimpleGUI==5.0.6
+PySimpleGUI==5.0.8.3
+Requests==2.32.3
+scaleogram==0.9.5
+scipy==1.15.3
